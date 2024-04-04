@@ -1,1 +1,2 @@
-# Vue 3 + TypeScript + Vite
+# Flowmodoro Vue
+Vue 3 + Vite app that replicates functionality of Flowmodoro
